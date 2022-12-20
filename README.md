@@ -1,5 +1,5 @@
 ## ZSH (using Oh My ZSH) on Manjaro Linux   
-It uses on my zsh passion theme which is a highly saturated color schema support 256 colors. Uses nord tmux for tmux, comes up with autosuggestions and syntax-highlighting.   
+It uses on my zsh passion theme which is a highly saturated color schema supports 256 colors. Uses nord-tmux theme for tmux, come up with autosuggestions and syntax-highlighting.   
 
 <p align="center">
   <img src="ohmyzsh_passion_color_schema_nord_tmux.png" width="600"/>
