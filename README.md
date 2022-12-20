@@ -43,6 +43,7 @@ git clone https://github.com/yuzukicat/oh-my-zsh-conf.git
 git clone https://github.com/ChesterYue/ohmyzsh-theme-passion.git
 git clone https://github.com/zsh-users/zsh-autosuggestions.git
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+cd ~/
 sudo cp -R Package/oh-my-zsh-conf/.zshrc ~/
 sudo cp -R Package/ohmyzsh-theme-passion/passion.zsh-theme ~/.oh-my-zsh/custom/themes
 sudo cp -R Package/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins
